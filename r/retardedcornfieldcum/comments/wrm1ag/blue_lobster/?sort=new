@@ -16,7 +16,7 @@
    <link href="//out.reddit.com" rel="dns-prefetch"/>
    <link href="//out.reddit.com" rel="preconnect"/>
    <meta content="reddit" property="og:site_name"/>
-   <meta content="Posted in r/retardedcornfieldcum by u/Disciple_Of_Fomo • 109 points and 2 comments" property="og:description"/>
+   <meta content="Posted in r/retardedcornfieldcum by u/Disciple_Of_Fomo • 106 points and 2 comments" property="og:description"/>
    <meta content="Blue lobster" property="og:title"/>
    <meta content="https://a.thumbs.redditmedia.com/WVeRf6x6NFFWa4bESjjOHWArv6xpVvwF9a2qlJCL-64.jpg" property="og:image"/>
    <meta content="600" property="og:ttl"/>
@@ -67,7 +67,7 @@
         <script src="//www.redditstatic.com/videoplayer.pRlfb8S7mb4.js" type="text/javascript">
         </script>
         <script id="config" type="text/javascript">
-         r.setup({"ajax_domain": "old.reddit.com", "post_site": "retardedcornfieldcum", "gold": false, "scraped_image_extensions": ["gif", "jpeg", "jpg", "png", "tiff"], "poisoning_report_mac": null, "requires_eu_cookie_policy": false, "nsfw_media_acknowledged": false, "stats_domain": "", "feature_net_neutrality": false, "cur_screen_name": "", "country_code": "", "facebook_app_id": "322647334569188", "loid": "0000000000rq9y19f5", "is_sponsor": false, "has_gold_subscription": false, "feature_author_tooltip_users": true, "user_id": false, "pref_email_messages": false, "poisoning_canary": null, "logged": false, "over_18": false, "show_spez_modal": true, "show_archived_signup_cta": true, "loid_created": 1661029934688, "mweb_blacklist_expressions": ["^/prefs/?", "^/live/?", "/message/compose", "/m/", "^/subreddits/create", "^/gold", "^/advertising", "^/promoted", "^/buttons"], "feature_noreferrer_to_noopener": true, "is_posts_mod": false, "modhash": "", "external_frame": false, "feature_cookie_consent_banner": true, "send_logs": true, "user_subscription_size": 0, "listing_over_18": false, "https_endpoint": "https://www.reddit.com", "extension": null, "embedded": false, "use_onetrust": false, "ads_loading_timeout_ms": 5000, "enabled_experiments": {}, "cache_policy": "loggedout_www", "admin_message_acct": "/r/reddit.com", "event_target": {"target_root_type": "video", "target_root_fullname": "t3_wrm0v3", "target_id": 1981295368, "target_type": "crosspost", "target_sort": "new", "target_title": "Blue lobster", "target_url": "https://v.redd.it/0urjclqsmhi91", "target_url_domain": "v.redd.it", "target_fullname": "t3_wrm1ag"}, "advertiser_category": null, "events_collector_v2_url": "https://www.reddit.com/api/register", "debug": false, "has_subscribed": false, "expando_preference": "subreddit_default", "static_root": "//www.redditstatic.com", "server_time": 1661030574.0, "feature_no_subscription_step": null, "feature_swap_steps_two_and_three_recalibration": "treatment_6", "pref_no_profanity": true, "share_tracking_ts": 1661030574795, "cur_domain": "reddit.com", "browser_supports_d2x": false, "events_collector_url": "https://www.reddit.com/api/register", "embed_preview_url": "https://rebed.redditmedia.com/embed", "gild_url": "/framedGild", "cur_link": "t3_wrm1ag", "user_in_timeout": false, "share_tracking_hmac": null, "live_orangereds_pref": true, "feature_blocked_user_enabled": false, "ad_serving_events_sample_rate": "1.00", "is_fake": false, "renderstyle": "html", "framed_modal_url": "/framedModal/", "feature_adblock_v2_events_enabled": false, "user_age": false, "vote_hash": "z1SlIXZ2LEtfeDFaSP011ZpCtldwoWi23levyf0k5g9YTd1/7ZKYsDS/oZ0j3k2BzEywoIcI8F5qaatTRK7gXv60rXMalhGH9MlW7WgooeK3g1h3PVCy2Ug/hzDrR9XLCLTU8lIXYj45rI42Ie2akWEIkBvdOHxeQP9C0Rjphhg=", "link_websocket_url": "", "events_collector_secret": "Ua3epahc7ZiengeeVaeG6eingahke7", "pref_video_autoplay": true, "events_collector_key": "RedditFrontend3", "scraped_domains": ["gfycat.com", "imgur.com"], "allow_nonessential_cookies": false, "store_visits": false, "onetrust_client_id": "14003311-a669-490b-a682-56294eb02bf2", "cur_site": "t5_6idjlq", "new_window": false, "pref_beta": false, "eu_cookie_max_attempts": 3, "pageInfo": {"actionName": "front.GET_comments", "statsVerification": "388228f7328f4f4378f87784f3f47137498db25f", "type": "post_detail", "verification": "388228f7328f4f4378f87784f3f47137498db25f", "statsName": "front.GET_comments"}, "user_websocket_url": null, "signature_header": "X-Signature", "media_domain": "www.redditmedia.com", "whitelist_status": "no_ads", "signature_header_v2": "X-Signature-v2", "cur_listing": "retardedcornfieldcum", "email_verified": false, "status_msg": {"fetching": "fetching title...", "loading": "loading...", "submitting": "submitting..."}, "link_limit": 200, "stats_sample_rate": "5", "loid_version": 2, "eu_cookie": "eu_cookie", "is_moderator_somewhere": false, "d2x_domain": "https://new.reddit.com/"})
+         r.setup({"ajax_domain": "old.reddit.com", "post_site": "retardedcornfieldcum", "gold": false, "scraped_image_extensions": ["gif", "jpeg", "jpg", "png", "tiff"], "poisoning_report_mac": null, "requires_eu_cookie_policy": false, "nsfw_media_acknowledged": false, "stats_domain": "", "feature_net_neutrality": false, "cur_screen_name": "", "country_code": "", "facebook_app_id": "322647334569188", "loid": "0000000000rqp9jhqo", "is_sponsor": false, "has_gold_subscription": false, "feature_author_tooltip_users": true, "user_id": false, "pref_email_messages": false, "poisoning_canary": null, "logged": false, "over_18": false, "show_spez_modal": true, "show_archived_signup_cta": true, "loid_created": 1661058004281, "mweb_blacklist_expressions": ["^/prefs/?", "^/live/?", "/message/compose", "/m/", "^/subreddits/create", "^/gold", "^/advertising", "^/promoted", "^/buttons"], "feature_noreferrer_to_noopener": true, "is_posts_mod": false, "modhash": "", "external_frame": false, "feature_cookie_consent_banner": true, "send_logs": true, "user_subscription_size": 0, "listing_over_18": false, "https_endpoint": "https://www.reddit.com", "extension": null, "embedded": false, "use_onetrust": false, "ads_loading_timeout_ms": 5000, "enabled_experiments": {}, "cache_policy": "loggedout_www", "admin_message_acct": "/r/reddit.com", "event_target": {"target_root_type": "video", "target_root_fullname": "t3_wrm0v3", "target_id": 1981295368, "target_type": "crosspost", "target_sort": "new", "target_title": "Blue lobster", "target_url": "https://v.redd.it/0urjclqsmhi91", "target_url_domain": "v.redd.it", "target_fullname": "t3_wrm1ag"}, "advertiser_category": null, "events_collector_v2_url": "https://www.reddit.com/api/login.json", "debug": false, "has_subscribed": false, "expando_preference": "subreddit_default", "static_root": "//www.redditstatic.com", "server_time": 1661058799.0, "feature_no_subscription_step": null, "feature_swap_steps_two_and_three_recalibration": "treatment_2", "pref_no_profanity": true, "share_tracking_ts": 1661058799405, "cur_domain": "reddit.com", "browser_supports_d2x": false, "events_collector_url": "https://www.reddit.com/api/login.json", "embed_preview_url": "https://rebed.redditmedia.com/embed", "gild_url": "/framedGild", "cur_link": "t3_wrm1ag", "user_in_timeout": false, "share_tracking_hmac": null, "live_orangereds_pref": true, "feature_blocked_user_enabled": false, "ad_serving_events_sample_rate": "1.00", "is_fake": false, "renderstyle": "html", "framed_modal_url": "/framedModal/", "feature_adblock_v2_events_enabled": false, "user_age": false, "vote_hash": "kTf6YJxbcX7L7h12F+AcnVLkIQVvuV54gIHvXCvwJJOKYfzTJWj18ap6cE3aMRIs73x6QoeIVenR22n1TSLpjAd7q/bd5/3Dxtq/o06rYiDNzUsZkB9RVtxweqeQUxEBmo+aU3pnw7FleB/67RBQaaCgRR3W1UVGGfZnR0t0Kws=", "link_websocket_url": "", "events_collector_secret": "Ua3epahc7ZiengeeVaeG6eingahke7", "pref_video_autoplay": true, "events_collector_key": "RedditFrontend3", "scraped_domains": ["gfycat.com", "imgur.com"], "allow_nonessential_cookies": false, "store_visits": false, "onetrust_client_id": "14003311-a669-490b-a682-56294eb02bf2", "cur_site": "t5_6idjlq", "new_window": false, "pref_beta": false, "eu_cookie_max_attempts": 3, "pageInfo": {"actionName": "front.GET_comments", "statsVerification": "388228f7328f4f4378f87784f3f47137498db25f", "type": "post_detail", "verification": "388228f7328f4f4378f87784f3f47137498db25f", "statsName": "front.GET_comments"}, "user_websocket_url": null, "signature_header": "X-Signature", "media_domain": "www.redditmedia.com", "whitelist_status": "no_ads", "signature_header_v2": "X-Signature-v2", "cur_listing": "retardedcornfieldcum", "email_verified": false, "status_msg": {"fetching": "fetching title...", "loading": "loading...", "submitting": "submitting..."}, "link_limit": 200, "stats_sample_rate": "5", "loid_version": 2, "eu_cookie": "eu_cookie", "is_moderator_somewhere": false, "d2x_domain": "https://new.reddit.com/"})
         </script>
         <style type="text/css">
          /* Custom css: use this block to insert special translation-dependent css in the page header */
@@ -668,7 +668,7 @@
      </div>
      <div class="score">
       <span class="number">
-       109
+       106
       </span>
       <span class="word">
        points
@@ -765,7 +765,7 @@
      </span>
      <span class="subscribers">
       <span class="number">
-       3,566
+       3,571
       </span>
       <span class="word">
        readers
@@ -773,13 +773,13 @@
      </span>
      <p class="users-online" title="users viewing this subreddit in the past 15 minutes">
       <span class="number">
-       16
+       4
       </span>
       <span class="word">
        users here now
       </span>
      </p>
-     <form action="#" class="usertext warn-on-unload" id="form-t5_6idjlqus6" onsubmit="return post_form(this, 'editusertext')">
+     <form action="#" class="usertext warn-on-unload" id="form-t5_6idjlqtrr" onsubmit="return post_form(this, 'editusertext')">
       <input name="thing_id" type="hidden" value="t5_6idjlq"/>
       <div class="usertext-body may-blank-within md-container">
       </div>
@@ -843,8 +843,32 @@
       <div class="read-next-list">
        <div class="listing read-next-listing">
         <div class="listing-contents">
+         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wthz29/bateman_pilled/?ref=readnext" id="read-next-link-t3_wthz29">
+          <div class="read-next-meta">
+           <span class="score" title="105">
+            105
+           </span>
+           ·
+           <span class="comments">
+            2 comments
+           </span>
+          </div>
+          <div class="read-next-thumbnail">
+           <img alt="" height="70" src="//b.thumbs.redditmedia.com/8NsHjQ57b7FieS_LFxRyk9q0zN4Yf5DW-Dcv2T5AXjE.jpg" width="70"/>
+          </div>
+          <div class="read-next-title">
+           Bateman pilled.
+          </div>
+         </a>
          <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wth9xu/this_game_makes_me_want_to_kill_people_i_want_to/?ref=readnext" id="read-next-link-t3_wth9xu">
           <div class="read-next-meta">
+           <span class="score" title="95">
+            95
+           </span>
+           ·
+           <span class="comments">
+            1 comment
+           </span>
           </div>
           <div class="read-next-thumbnail">
            <img alt="" height="70" src="//b.thumbs.redditmedia.com/vuL4QMc2mkKzoVSnxv3zM5C-HN5cwjevpN60i-zRnIE.jpg" width="70"/>
@@ -855,12 +879,12 @@
          </a>
          <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wst3jt/todays_fit/?ref=readnext" id="read-next-link-t3_wst3jt">
           <div class="read-next-meta">
-           <span class="score" title="229">
-            229
+           <span class="score" title="236">
+            236
            </span>
            ·
            <span class="comments">
-            8 comments
+            9 comments
            </span>
           </div>
           <div class="read-next-thumbnail">
@@ -872,8 +896,8 @@
          </a>
          <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wsr3i7/sigma/?ref=readnext" id="read-next-link-t3_wsr3i7">
           <div class="read-next-meta">
-           <span class="score" title="106">
-            106
+           <span class="score" title="107">
+            107
            </span>
            ·
            <span class="comments">
@@ -889,8 +913,8 @@
          </a>
          <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wsk1sf/maannnnn/?ref=readnext" id="read-next-link-t3_wsk1sf">
           <div class="read-next-meta">
-           <span class="score" title="153">
-            153
+           <span class="score" title="151">
+            151
            </span>
            ·
            <span class="comments">
@@ -909,8 +933,8 @@
          </a>
          <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wscx7p/guys_this_is_gonna_be_me_in_2008/?ref=readnext" id="read-next-link-t3_wscx7p">
           <div class="read-next-meta">
-           <span class="score" title="190">
-            190
+           <span class="score" title="196">
+            196
            </span>
            ·
            <span class="comments">
@@ -926,8 +950,8 @@
          </a>
          <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wskpdr/_/?ref=readnext" id="read-next-link-t3_wskpdr">
           <div class="read-next-meta">
-           <span class="score" title="51">
-            51
+           <span class="score" title="50">
+            50
            </span>
            ·
            <span class="comments">
@@ -946,8 +970,8 @@
          </a>
          <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wrygs1/saul_job/?ref=readnext" id="read-next-link-t3_wrygs1">
           <div class="read-next-meta">
-           <span class="score" title="185">
-            185
+           <span class="score" title="184">
+            184
            </span>
            ·
            <span class="comments">
@@ -963,8 +987,8 @@
          </a>
          <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wry6h9/saul_is_good_man/?ref=readnext" id="read-next-link-t3_wry6h9">
           <div class="read-next-meta">
-           <span class="score" title="115">
-            115
+           <span class="score" title="118">
+            118
            </span>
            ·
            <span class="comments">
@@ -983,8 +1007,8 @@
          </a>
          <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wrm1ag/blue_lobster/?ref=readnext" id="read-next-link-t3_wrm1ag">
           <div class="read-next-meta">
-           <span class="score" title="109">
-            109
+           <span class="score" title="108">
+            108
            </span>
            ·
            <span class="comments">
@@ -996,20 +1020,6 @@
           </div>
           <div class="read-next-title">
            Blue lobster
-          </div>
-         </a>
-         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/ws6oy3/new_flairs/?ref=readnext" id="read-next-link-t3_ws6oy3">
-          <div class="read-next-meta">
-           <span class="score" title="4">
-            4
-           </span>
-           ·
-           <span class="comments">
-            10 comments
-           </span>
-          </div>
-          <div class="read-next-title">
-           new flairs
           </div>
          </a>
         </div>
@@ -1047,7 +1057,7 @@
     body >.content .link .rank, .rank-spacer { width: 1.1ex } body >.content .link .midcol, .midcol-spacer { width: 4.1ex } .adsense-wrap { background-color: #eff7ff; font-size: 18px; padding-left: 5.2ex; padding-right: 5px; }
    </style>
    <div class="sitetable linklisting" id="siteTable">
-    <div class="thing id-t3_wrm1ag linkflair odd link" data-author="Disciple_Of_Fomo" data-author-fullname="t2_pzofe67s" data-comments-count="2" data-context="comments" data-crosspost-root-author="Disciple_Of_Fomo" data-crosspost-root-num-comments="2" data-crosspost-root-score="26" data-crosspost-root-subreddit="Ape_Garden" data-crosspost-root-subreddit-prefixed="r/Ape_Garden" data-crosspost-root-time="2 days ago" data-crosspost-root-title="Blue lobster" data-domain="v.redd.it" data-fullname="t3_wrm1ag" data-gildings="0" data-is-gallery="false" data-nsfw="false" data-num-crossposts="1" data-oc="false" data-permalink="/r/retardedcornfieldcum/comments/wrm1ag/blue_lobster/" data-promoted="false" data-rank="" data-score="109" data-spoiler="false" data-subreddit="retardedcornfieldcum" data-subreddit-fullname="t5_6idjlq" data-subreddit-prefixed="r/retardedcornfieldcum" data-subreddit-type="public" data-target-parent-fullname="t3_wrm0v3" data-target-root-fullname="t3_wrm0v3" data-target-root-type="video" data-timestamp="1660835433000" data-type="link" data-url="https://v.redd.it/0urjclqsmhi91" data-whitelist-status="no_ads" id="thing_t3_wrm1ag" onclick="click_thing(this)">
+    <div class="thing id-t3_wrm1ag linkflair odd link" data-author="Disciple_Of_Fomo" data-author-fullname="t2_pzofe67s" data-comments-count="2" data-context="comments" data-crosspost-root-author="Disciple_Of_Fomo" data-crosspost-root-num-comments="2" data-crosspost-root-score="27" data-crosspost-root-subreddit="Ape_Garden" data-crosspost-root-subreddit-prefixed="r/Ape_Garden" data-crosspost-root-time="2 days ago" data-crosspost-root-title="Blue lobster" data-domain="v.redd.it" data-fullname="t3_wrm1ag" data-gildings="0" data-is-gallery="false" data-nsfw="false" data-num-crossposts="1" data-oc="false" data-permalink="/r/retardedcornfieldcum/comments/wrm1ag/blue_lobster/" data-promoted="false" data-rank="" data-score="106" data-spoiler="false" data-subreddit="retardedcornfieldcum" data-subreddit-fullname="t5_6idjlq" data-subreddit-prefixed="r/retardedcornfieldcum" data-subreddit-type="public" data-target-parent-fullname="t3_wrm0v3" data-target-root-fullname="t3_wrm0v3" data-target-root-type="video" data-timestamp="1660835433000" data-type="link" data-url="https://v.redd.it/0urjclqsmhi91" data-whitelist-status="no_ads" id="thing_t3_wrm1ag" onclick="click_thing(this)">
      <p class="parent">
      </p>
      <span class="rank">
@@ -1055,14 +1065,14 @@
      <div class="midcol unvoted">
       <div aria-label="upvote" class="arrow up login-required access-required" data-event-action="upvote" role="button" tabindex="0">
       </div>
-      <div class="score dislikes" title="108">
-       108
+      <div class="score dislikes" title="105">
+       105
       </div>
-      <div class="score unvoted" title="109">
-       109
+      <div class="score unvoted" title="106">
+       106
       </div>
-      <div class="score likes" title="110">
-       110
+      <div class="score likes" title="107">
+       107
       </div>
       <div aria-label="downvote" class="arrow down login-required access-required" data-event-action="downvote" role="button" tabindex="0">
       </div>
@@ -1160,7 +1170,7 @@
           </p>
           <div class="crosspost-preview-tagline tagline">
            <span>
-            26 points
+            27 points
            </span>
            <span class="dot">
             •
@@ -1199,7 +1209,7 @@
          <div class="media-preview no-constraints-when-pinned" id="media-preview-wrm0v3" style="max-width: 648.0px; min-width: 486px; max-height: 486px; min-height: 273px; overflow: hidden;">
           <div class="media-preview-content video-player">
            <div class="no-constraints-when-pinned" style="max-width: 648.0px; min-width: 486px; max-height: 486px; min-height: 273px">
-            <div class="portrait" data-hls-url="https://v.redd.it/0urjclqsmhi91/HLSPlaylist.m3u8?a=1663622574%2CMmFjNWVhOTgwZDcyMWEzOTBlZDk5YjJhMWJlZmFjNDc3NGE5ZmZiYzBkYTAxYzA1YzFlY2YzZTc5MTRjMDgzYQ%3D%3D&amp;v=1&amp;f=sd" data-id-36="wrm0v3" data-is-gif="false" data-link-url="/r/Ape_Garden/comments/wrm0v3/blue_lobster/" data-max-pinned-width="240" data-mpd-url="https://v.redd.it/0urjclqsmhi91/DASHPlaylist.mpd?a=1663622574%2CNjI1OWFhZmIyMjQxMTJlZmE1MzlmNzNhNDRhYjVjNDQ0MWZjZjI1MmJlOGUyM2E2MjM0NmJhNTI5MTNjMzI2Nw%3D%3D&amp;v=1&amp;f=sd" data-obfuscated-poster-url="" data-orientation="portrait" data-pin-condition="function(){return !$(this).data('video-player-object').paused;}" data-pinned-height="135" data-pinned-width="180.0" data-seek-preview-url="https://v.redd.it/0urjclqsmhi91/DASH_96.mp4" data-video-height="486" data-video-width="648.0" id="video-wrm0v3">
+            <div class="portrait" data-hls-url="https://v.redd.it/0urjclqsmhi91/HLSPlaylist.m3u8?a=1663650799%2CMWJhMjgzNDRkNGQyYWIwMWNhOWIyNzZhZTkyZWFmYmZhMzEyODk4YzE0MmJhZmE0NjI1MDYyNjc2ZDllZjk2YQ%3D%3D&amp;v=1&amp;f=sd" data-id-36="wrm0v3" data-is-gif="false" data-link-url="/r/Ape_Garden/comments/wrm0v3/blue_lobster/" data-max-pinned-width="240" data-mpd-url="https://v.redd.it/0urjclqsmhi91/DASHPlaylist.mpd?a=1663650799%2CZDY4MWU3ZDdhNzIyZmRiNDMzMGQ0MmI0ZjlhYjQ1NzRmNjNhM2RkNTA1N2JlYTljMDliMDVjOTUxNjBiMDE3Ng%3D%3D&amp;v=1&amp;f=sd" data-obfuscated-poster-url="" data-orientation="portrait" data-pin-condition="function(){return !$(this).data('video-player-object').paused;}" data-pinned-height="135" data-pinned-width="180.0" data-seek-preview-url="https://v.redd.it/0urjclqsmhi91/DASH_96.mp4" data-video-height="486" data-video-width="648.0" id="video-wrm0v3">
             </div>
             <script type="text/javascript">
              (function() { var thing = {"obfuscatedPosterUrl": null, "context": "comments", "isGif": false}; var autoplay = true; if (thing.obfuscatedPosterUrl){ autoplay = false; } if (r.config && !r.config.pref_video_autoplay && thing.context === "comments") { autoplay = false; } var play_pause_click_action = autoplay ? "pause" : "play"; var play_pause_click_toggle_action = autoplay ? "play" : "pause"; var play_pause_vector_from = autoplay ? "m5,5l15,7.5l0,15l-15,7.5l0,-30m15,7.5l15,7.5l0,0l-15,7.5l0,-15" : "m5,5l12,0l0,30l-12,0l0,-30m18,0l12,0l0,30l-12,0l0,-30"; var play_pause_vector_to = autoplay ? "m5,5l12,0l0,30l-12,0l0,-30m18,0l12,0l0,30l-12,0l0,-30" : "m5,5l15,7.5l0,15l-15,7.5l0,-30m15,7.5l15,7.5l0,0l-15,7.5l0,-15"; var videoPlayerElement = $("#video-wrm0v3"); var isMobile = r.utils.isMobile(); var canPlayDash = (typeof (window.MediaSource || window.WebKitMediaSource) === "function"); var videoOptions = { id: videoPlayerElement.data("id36"), linkUrl: videoPlayerElement.data("linkUrl"), src: canPlayDash ? videoPlayerElement.data("mpdUrl") : videoPlayerElement.data("hlsUrl"), type: canPlayDash ? RedditVideoPlayer.Types.MPD : RedditVideoPlayer.Types.HLS, autoplay: autoplay, poster: null, loop: false, orientation: videoPlayerElement.data("orientation"), }; if (isMobile) { videoOptions.enableStorage = false; videoOptions.uiControls = false; if (thing.isGif) { videoOptions.clickAction = RedditVideoPlayer.ClickActions.NONE; } else { videoOptions.controls = true; } } var redditVideoPlayer = new RedditVideoPlayer(videoPlayerElement, videoOptions); videoPlayerElement.data("video-player-object", redditVideoPlayer); redditVideoPlayer.setAspectRatio(videoPlayerElement.data("videoHeight") / videoPlayerElement.data("videoWidth")); if (!isMobile) { var bufferingControlsTree = $.parseHTML( '<div class="buffering-controls">' + '<div class="centered horizontal">' + '<div class="buffering-indicator active">' + '<div class="spinner-layer">' + '<div class="circle-clipper left">' + '<div class="circle"></div>' + '</div>' + '<div class="gap-patch">' + '<div class="circle"></div>' + '</div>' + '<div class="circle-clipper right">' + '<div class="circle"></div>' + '</div>' + '</div>' + '</div>' + '</div>' + '</div>' ); var bufferingControlsOptions = { behavior: RedditVideoController.Behaviors.BUFFERING, startVisible: false, fadeInDuration: 0, fadeOutDuration: 0, }; var bufferingControls = new RedditVideoController(bufferingControlsTree, bufferingControlsOptions); redditVideoPlayer.addUiController(bufferingControls); var pinnedHeight = videoPlayerElement.data("pinnedHeight"); var pinnedWidth = videoPlayerElement.data("pinnedWidth"); var maxPinnedWidth = videoPlayerElement.data("maxPinnedWidth"); $(document.body).on('pinnable:pinned', function(event) { videoPlayerElement.css('height', pinnedHeight); videoPlayerElement.css('width', pinnedWidth); videoPlayerElement.closest('.thing').find('.top-matter').css('left', pinnedWidth + 95); }.bind(this)); $(document.body).on('pinnable:unpinned', function(event) { videoPlayerElement.css('height', ''); videoPlayerElement.css('width', ''); }.bind(this)); var pinnedControlMargin = 12 * Math.pow(pinnedWidth / maxPinnedWidth, 2); var pinnedControlsTree = $.parseHTML( '<div class="pinned-controls show-only-when-pinned">' + '<div class="centered horizontal">' + '<button ' + 'class="play-pause pinned" ' + 'data-control-type="click" ' + 'data-action="' + play_pause_click_action + '" ' + 'data-toggle-action="' + play_pause_click_toggle_action + '" ' + 'style="margin-right: ' + pinnedControlMargin + 'px;">' + '<svg class="play-pause" ' + 'viewbox="0 0 40 40">' + '<path d="' + play_pause_vector_to + '">' + '<animate ' + 'begin="indefinite" ' + 'attributeType="XML" ' + 'attributeName="d" ' + 'fill="freeze" ' + 'to="' + play_pause_vector_to + '" ' + 'from="' + play_pause_vector_from + '" ' + 'dur="0.1s" ' + 'keySplines=".4 0 1 1" '+ 'repeat="1">' + '</animate>' + '</path>' + '</svg>' + '</button>' + '<button class="fullscreen" ' + 'data-control-type="click" ' + 'data-action="fullscreenRequest" ' + 'data-toggle-action="fullscreenCancel" ' + 'style="margin-left: ' + pinnedControlMargin + 'px;">' + '<img class="expand" src="//www.redditstatic.com/video-expand.svg">' + '<img class="collapse" src="//www.redditstatic.com/video-collapse.svg">' + '</button>' + '</div>' + '</div>' ); var pinnedControls = new RedditVideoController(pinnedControlsTree); redditVideoPlayer.addUiController(pinnedControls); var endedControlsTree = $.parseHTML( '<div class="ended-controls hide-when-pinned">' + '<div class="centered vertical">' + '<button data-control-type="click" data-action="replay">' + '<img src="//www.redditstatic.com/video-refresh.svg" >' + '</button>' + '<span class="replay-video">Replay Video</span>' + '</div>' + '</div>' ); var endedControlsOptions = { behavior: RedditVideoController.Behaviors.COMPLETED, startVisible: false, fadeInDuration: 400, fadeOutDuration: 0, }; var endedControls = new RedditVideoController(endedControlsTree, endedControlsOptions); redditVideoPlayer.addUiController(endedControls); var playbackControlsTree = $.parseHTML( '<div class="playback-controls right bottom left hide-when-pinned">' + '<button ' + 'class="control-button play-pause" ' + 'tooltip-string="Pause"' + 'tooltip-string-toggle="Play" ' + 'data-control-type="click" ' + 'data-action="' + play_pause_click_action + '" ' + 'data-toggle-action="' + play_pause_click_toggle_action + '">' + '<svg class="play-pause" viewbox="0 0 40 40">' + '<path d="' + play_pause_vector_to + '">' + '<animate ' + 'begin="indefinite" ' + 'attributeType="XML" ' + 'attributeName="d" ' + 'fill="freeze" ' + 'to="' + play_pause_vector_to + '" ' + 'from="' + play_pause_vector_from + '" ' + 'dur="0.1s" ' + 'keySplines=".4 0 1 1" ' + 'repeat="1">' + '</animate>' + '</path>' + '</svg>' + '</button>' + '<span class="time-label" ' + 'data-control-type="text" ' + 'data-action="elapsedTime">' + '0:00' + '</span>' + '<div data-control-type="seekBar" ' + 'data-preview-video-src="' + videoPlayerElement.data('seekPreviewUrl') + '">' + '</div>' + '<span class="time-label" ' + 'data-control-type="text" ' + 'data-action="totalTime">' + '0:00' + '</span>' + '<div class="control-button volume-container">' + '<div data-control-type="volumeSlider"></div>' + '<button class="volume" data-control-type="click" data-action="unmute" data-toggle-action="mute">' + '<img class="mute" src="//www.redditstatic.com/video-volume.svg">' + '<img class="unmute" src="//www.redditstatic.com/video-mute.svg">' + '</button>' + '</div>' + '<div class="control-button settings-container" ' + 'tooltip-string="Settings">' + '<label class="settings has-submenu" data-control-type="click">' + '<input class="settings" type="checkbox">' + '<img class="settings-open" src="//www.redditstatic.com/video-settings.svg">' + '<img class="settings-close" src="//www.redditstatic.com/video-settings-open.svg">' + '<span class="submenu">' + '<div data-control-type="settingsMenu"></div>' + '</span>' + '</label>' + '</div>' + '<button class="control-button fullscreen" ' + 'tooltip-string="Fullscreen"' + 'tooltip-string-toggle="Exit Fullscreen" ' + 'data-control-type="click" ' + 'data-action="fullscreenRequest" ' + 'data-toggle-action="fullscreenCancel">' + '<img class="expand" src="//www.redditstatic.com/video-expand.svg">' + '<img class="collapse" src="//www.redditstatic.com/video-collapse.svg">' + '</button>' + '</div>' ); var playbackControlsOptions = { behavior: RedditVideoController.Behaviors.MOUSE_MOVE, }; var playbackControls = new RedditVideoController(playbackControlsTree, playbackControlsOptions); redditVideoPlayer.addUiController(playbackControls); if (r.config && !r.config.pref_video_autoplay && thing.context === "comments") { var interstitialControlsTree = $.parseHTML( '<div class="interstitial-controls hide-when-pinned">' + '<div class="centered vertical">' + '<button data-control-type="click" data-action="play">' + '<svg class="play-pause" viewbox="0 0 36 36">' + '<path d="m5,5l15,7.5l0,15l-15,7.5l0,-30m15,7.5l15,7.5l0,0l-15,7.5l0,-15"></path>' + '</svg>' + '</button>' + '</div>' + '</div>' ); var interstitialControlsOptions = { behavior: RedditVideoController.Behaviors.INTERSTITIAL, startVisible: true, fadeInDuration: 0, fadeOutDuration: 400, }; var interstitialControls = new RedditVideoController(interstitialControlsTree, interstitialControlsOptions); redditVideoPlayer.addUiController(interstitialControls); } $(playbackControlsTree).find('input.settings').change(function() { if ($(this).is(':checked')) { firePlayerEvent.call(redditVideoPlayer, null, null, {verb: 'click', noun: 'settings'}); redditVideoPlayer.setClickAction(RedditVideoPlayer.ClickActions.NONE); } else { redditVideoPlayer.setClickAction(RedditVideoPlayer.ClickActions.PLAY_PAUSE); } }); } if (isMobile && thing.isGif) { $(videoPlayerElement).find("video").bind("webkitendfullscreen", function() { this.play(); }); redditVideoPlayer.mute(); } $(document.body).on("interstitial:destroy", function(event) { if ("t3_wrm0v3" == event.expando.id) { redditVideoPlayer.play(); } }); var parent = $("#media-preview-wrm0v3").parent(); var hadInterstitial = parent.hasClass("expando") && !(parent.hasClass("expando--with-interstitial")) && !(parent.hasClass("expando-uninitialized")) && "" != ""; if (hadInterstitial && !isMobile) { $(videoPlayerElement).find("video")[0].addEventListener("canplay", function() { redditVideoPlayer.play(); }) } var playPauseButtons = $(videoPlayerElement).find("button.play-pause"); var isPlaying = autoplay; redditVideoPlayer.addActionCompletedCallback(function(action, value) { if ((action == RedditVideoPlayer.Actions.PLAY && !isPlaying) || (action == RedditVideoPlayer.Actions.PAUSE && isPlaying)) { playPauseButtons.each(function() { var animation = $(this).find('animate').first(); var to = animation.attr('to'); var from = animation.attr('from'); animation.attr({ "from": to, "to": from }); if ('beginElement' in animation[0]) { animation.get(0) .beginElement(); } else { var path = $(this).find('path'); path.attr({"d": from}); } }); isPlaying = !isPlaying; } else if (action == RedditVideoPlayer.Actions.NONE && thing.isGif && isMobile) { redditVideoPlayer.toggleFullScreen(); return; } var settings = $(playbackControlsTree).find("input.settings"); if (settings.prop("checked")) { settings.prop("checked", false); redditVideoPlayer.setClickAction(RedditVideoPlayer.ClickActions.PLAY_PAUSE); } }); var postElement = videoPlayerElement.closest('.thing.link'); r.analytics.observeAdVideoPlayer(postElement, videoPlayerElement); redditVideoPlayer.addActionCompletedCallback(function(action, value) { var actions = [ RedditVideoPlayer.Actions.BUFFERING, RedditVideoPlayer.Actions.PAUSE, RedditVideoPlayer.Actions.PLAYING, RedditVideoPlayer.Actions.REPLAY, RedditVideoPlayer.Actions.SEEK_JUMP, RedditVideoPlayer.Actions.SET_CURRENT_TIME, RedditVideoPlayer.Actions.FULLSCREEN_REQUEST, RedditVideoPlayer.Actions.FULLSCREEN_CANCEL, RedditVideoPlayer.Actions.UNMUTE, RedditVideoPlayer.Actions.MUTE, RedditVideoPlayer.Actions.SET_VOLUME, RedditVideoPlayer.Actions.DURATION_CHANGE, ]; if (actions.indexOf(action) >-1) { var targetElement = $(this.root).closest('.thing.link'); var playerData = { muted: redditVideoPlayer.muted, volume: redditVideoPlayer.volume, duration: redditVideoPlayer.duration, }; r.analytics.handleVideoAdEvent(action, value, playerData, targetElement); } }); var lastTime = 0; redditVideoPlayer.addTimeUpdateHandler(function(currentTime, duration) { var targetElement = $(this.root).closest('.thing.link'); var INTERVAL = 0.5; var timeDiff = currentTime - lastTime; lastTime = currentTime; if (timeDiff >0 && timeDiff< INTERVAL) { r.analytics.handleVideoTimeUpdate(currentTime, timeDiff, duration, targetElement); } }); function firePlayerEvent(action, value, extras) { extras = (typeof extras === 'object') ? extras : {}; var verb = extras.verb || ''; var noun = extras.noun || ''; var source = extras.source || 'videoplayer'; var maxTimestamp = this.maxPlayed * 1000; var durationMs = this.duration * 1000; var timeMs = this.currentTime * 1000; var pinnableElement = $(this.root).closest('.pinnable-content'); var targetElement = $(this.root).closest('.thing.link'); var targetData = targetElement.data(); var videoState = { maxTimestampServed: parseInt(maxTimestamp), percentServed: maxTimestamp / durationMs, duration: parseInt(durationMs), time: parseInt(timeMs), isNsfw: targetElement.hasClass('over18'), isSpoiler: targetElement.hasClass('spoiler'), isPinned: pinnableElement.hasClass('pinned'), isVertical: this.orientation === RedditVideoPlayer.Orientations.PORTRAIT, firstFrameTime: this.firstFrameTime, loadStartTime: this.loadStartTime, }; r.analytics.videoPlayerEvent(source, verb, noun, targetData, videoState); } redditVideoPlayer.addActionCompletedCallback(firePlayerEvent); })();
@@ -1322,7 +1332,7 @@
          (1 child)
         </a>
        </p>
-       <form action="#" class="usertext warn-on-unload" id="form-t1_iktdli0gxo" onsubmit="return post_form(this, 'editusertext')">
+       <form action="#" class="usertext warn-on-unload" id="form-t1_iktdli0j3p" onsubmit="return post_form(this, 'editusertext')">
         <input name="thing_id" type="hidden" value="t1_iktdli0"/>
         <div class="usertext-body may-blank-within md-container">
          <div class="md">
@@ -1410,7 +1420,7 @@
             (0 children)
            </a>
           </p>
-          <form action="#" class="usertext warn-on-unload" id="form-t1_iktdlt15i6" onsubmit="return post_form(this, 'editusertext')">
+          <form action="#" class="usertext warn-on-unload" id="form-t1_iktdlt1mzh" onsubmit="return post_form(this, 'editusertext')">
            <input name="thing_id" type="hidden" value="t1_iktdlt1"/>
            <div class="usertext-body may-blank-within md-container">
             <div class="md">
@@ -1519,14 +1529,14 @@
      <div class="interstitial"><img class="interstitial-image" src="//www.redditstatic.com/interstitial-image-archived.png" alt="archived" height="150" width="150"><div class="interstitial-message md-container"><div class="md"><h3>This is an archived post. You won't be able to vote or comment.</h3><p>Posts&#32;are&#32;automatically&#32;archived&#32;after&#32;6&#32;months.</p></div></div><div class="buttons"><a href="/" class="c-btn c-btn-primary">Got It</a></div></div>
     </script>
     <script id="spezmodal-popup" type="text/template">
-     <div class="md-container"><div class="md"><h1>Happy National Voter Registration Day from Reddit!</h1><p>You upvote on Reddit, but are you registered to vote IRL? Learn about the voter registration process, how to check your registration, and more&#32;<a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAAvl4BYwwsMGnW3bSOukfONiOr_oAM_DMLnOzhdjr0lBE_HdCU&amp;app_name=reddit.com" data-outbound-expiration="1661034174000" >here.</a>&#32; Register now, so you’ll be VoteReady come election day this November.</p><div class="spezmodal-cta"><a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAAvl4BYwwsMGnW3bSOukfONiOr_oAM_DMLnOzhdjr0lBE_HdCU&amp;app_name=reddit.com" data-outbound-expiration="1661034174000" >REGISTER TO VOTE</a></div></div></div>
+     <div class="md-container"><div class="md"><h1>Happy National Voter Registration Day from Reddit!</h1><p>You upvote on Reddit, but are you registered to vote IRL? Learn about the voter registration process, how to check your registration, and more&#32;<a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAA_8wBY-ECJ01PPzoOkUMsaPua62GF-YchFPx0ylC-Lq9PrhBn&amp;app_name=reddit.com" data-outbound-expiration="1661062399000" >here.</a>&#32; Register now, so you’ll be VoteReady come election day this November.</p><div class="spezmodal-cta"><a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAA_8wBY-ECJ01PPzoOkUMsaPua62GF-YchFPx0ylC-Lq9PrhBn&amp;app_name=reddit.com" data-outbound-expiration="1661062399000" >REGISTER TO VOTE</a></div></div></div>
     </script>
    </div>
    <script id="archived-popup" type="text/template">
     <div class="interstitial"><img class="interstitial-image" src="//www.redditstatic.com/interstitial-image-archived.png" alt="archived" height="150" width="150"><div class="interstitial-message md-container"><div class="md"><h3>This is an archived post. You won't be able to vote or comment.</h3><p>Posts&#32;are&#32;automatically&#32;archived&#32;after&#32;6&#32;months.</p></div></div><div class="buttons"><a href="/" class="c-btn c-btn-primary">Got It</a></div></div>
    </script>
    <script id="spezmodal-popup" type="text/template">
-    <div class="md-container"><div class="md"><h1>Happy National Voter Registration Day from Reddit!</h1><p>You upvote on Reddit, but are you registered to vote IRL? Learn about the voter registration process, how to check your registration, and more&#32;<a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAAvl4BYwwsMGnW3bSOukfONiOr_oAM_DMLnOzhdjr0lBE_HdCU&amp;app_name=reddit.com" data-outbound-expiration="1661034174000" >here.</a>&#32; Register now, so you’ll be VoteReady come election day this November.</p><div class="spezmodal-cta"><a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAAvl4BYwwsMGnW3bSOukfONiOr_oAM_DMLnOzhdjr0lBE_HdCU&amp;app_name=reddit.com" data-outbound-expiration="1661034174000" >REGISTER TO VOTE</a></div></div></div>
+    <div class="md-container"><div class="md"><h1>Happy National Voter Registration Day from Reddit!</h1><p>You upvote on Reddit, but are you registered to vote IRL? Learn about the voter registration process, how to check your registration, and more&#32;<a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAA_8wBY-ECJ01PPzoOkUMsaPua62GF-YchFPx0ylC-Lq9PrhBn&amp;app_name=reddit.com" data-outbound-expiration="1661062399000" >here.</a>&#32; Register now, so you’ll be VoteReady come election day this November.</p><div class="spezmodal-cta"><a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAA_8wBY-ECJ01PPzoOkUMsaPua62GF-YchFPx0ylC-Lq9PrhBn&amp;app_name=reddit.com" data-outbound-expiration="1661062399000" >REGISTER TO VOTE</a></div></div></div>
    </script>
   </div>
   <div class="footer-parent">
@@ -1680,7 +1690,7 @@
     π
    </span>
    <span class="content">
-    Rendered by PID 32 on  reddit-service-r2-slowlane-6f5b8ccc79-s9s88  at 2022-08-20 21:22:54.712292+00:00 running 6c805f8 country code: US.
+    Rendered by PID 29 on  reddit-service-r2-slowlane-6f5b8ccc79-g7l7n  at 2022-08-21 05:13:19.322663+00:00 running 6c805f8 country code: US.
    </span>
   </p>
   <script src="//www.redditstatic.com/reddit.en.V_QdhTsokW8.js" type="text/javascript">
