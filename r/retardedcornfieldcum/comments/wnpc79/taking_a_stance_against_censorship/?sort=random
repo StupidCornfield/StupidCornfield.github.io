@@ -67,7 +67,7 @@
         <script src="//www.redditstatic.com/videoplayer.pRlfb8S7mb4.js" type="text/javascript">
         </script>
         <script id="config" type="text/javascript">
-         r.setup({"ajax_domain": "old.reddit.com", "post_site": "retardedcornfieldcum", "gold": false, "scraped_image_extensions": ["gif", "jpeg", "jpg", "png", "tiff"], "poisoning_report_mac": null, "requires_eu_cookie_policy": false, "nsfw_media_acknowledged": false, "stats_domain": "", "feature_net_neutrality": false, "cur_screen_name": "", "country_code": "", "facebook_app_id": "322647334569188", "loid": "0000000000rs0il03b", "is_sponsor": false, "has_gold_subscription": false, "feature_author_tooltip_users": true, "user_id": false, "pref_email_messages": false, "poisoning_canary": null, "logged": false, "over_18": false, "show_spez_modal": true, "show_archived_signup_cta": true, "loid_created": 1661144410637, "mweb_blacklist_expressions": ["^/prefs/?", "^/live/?", "/message/compose", "/m/", "^/subreddits/create", "^/gold", "^/advertising", "^/promoted", "^/buttons"], "feature_noreferrer_to_noopener": true, "is_posts_mod": false, "modhash": "", "external_frame": false, "feature_cookie_consent_banner": true, "send_logs": true, "user_subscription_size": 0, "listing_over_18": false, "https_endpoint": "https://www.reddit.com", "extension": null, "embedded": false, "use_onetrust": false, "ads_loading_timeout_ms": 5000, "enabled_experiments": {}, "cache_policy": "loggedout_www", "admin_message_acct": "/r/reddit.com", "event_target": {"target_id": 1974731013, "target_type": "self", "target_sort": "random", "target_fullname": "t3_wnpc79"}, "advertiser_category": null, "events_collector_v2_url": "https://www.reddit.com/api/vote.json", "debug": false, "has_subscribed": false, "expando_preference": "subreddit_default", "static_root": "//www.redditstatic.com", "server_time": 1661144561.0, "feature_no_subscription_step": "control_1", "feature_swap_steps_two_and_three_recalibration": "treatment_1", "pref_no_profanity": true, "share_tracking_ts": 1661144561106, "cur_domain": "reddit.com", "browser_supports_d2x": false, "events_collector_url": "https://www.reddit.com/api/vote.json", "embed_preview_url": "https://rebed.redditmedia.com/embed", "gild_url": "/framedGild", "cur_link": "t3_wnpc79", "user_in_timeout": false, "share_tracking_hmac": null, "live_orangereds_pref": true, "feature_blocked_user_enabled": false, "ad_serving_events_sample_rate": "1.00", "is_fake": false, "renderstyle": "html", "framed_modal_url": "/framedModal/", "feature_adblock_v2_events_enabled": false, "user_age": false, "vote_hash": "sG+Lv/vGQyzko4BsNsD71n4M3PNEGu2B2mlR26rSbN/eladQoP7oUkJwIofAj2D3c0F5INe0EpnGDmW9eWidGPus6VywtSrkPuRyCOR44/Y4+QRGjIiXP7+viB6UnFeyaEV0q5ixcUCPaOT3m1K/UKfor7EYzlZoR4qCHXDGTH8=", "link_websocket_url": "", "events_collector_secret": "Ua3epahc7ZiengeeVaeG6eingahke7", "pref_video_autoplay": true, "events_collector_key": "RedditFrontend3", "scraped_domains": ["gfycat.com", "imgur.com"], "allow_nonessential_cookies": false, "store_visits": false, "onetrust_client_id": "14003311-a669-490b-a682-56294eb02bf2", "cur_site": "t5_6idjlq", "new_window": false, "pref_beta": false, "eu_cookie_max_attempts": 3, "pageInfo": {"actionName": "front.GET_comments", "statsVerification": "388228f7328f4f4378f87784f3f47137498db25f", "type": "post_detail", "verification": "388228f7328f4f4378f87784f3f47137498db25f", "statsName": "front.GET_comments"}, "user_websocket_url": null, "signature_header": "X-Signature", "media_domain": "www.redditmedia.com", "whitelist_status": "no_ads", "signature_header_v2": "X-Signature-v2", "cur_listing": "retardedcornfieldcum", "email_verified": false, "status_msg": {"fetching": "fetching title...", "loading": "loading...", "submitting": "submitting..."}, "link_limit": 200, "stats_sample_rate": "5", "loid_version": 2, "eu_cookie": "eu_cookie", "is_moderator_somewhere": false, "d2x_domain": "https://new.reddit.com/"})
+         r.setup({"ajax_domain": "old.reddit.com", "post_site": "retardedcornfieldcum", "gold": false, "scraped_image_extensions": ["gif", "jpeg", "jpg", "png", "tiff"], "poisoning_report_mac": null, "requires_eu_cookie_policy": false, "nsfw_media_acknowledged": false, "stats_domain": "", "feature_net_neutrality": false, "cur_screen_name": "", "country_code": "", "facebook_app_id": "322647334569188", "loid": "0000000000rtdvy01l", "is_sponsor": false, "has_gold_subscription": false, "feature_author_tooltip_users": true, "user_id": false, "pref_email_messages": false, "poisoning_canary": null, "logged": false, "over_18": false, "show_spez_modal": true, "show_archived_signup_cta": true, "loid_created": 1661230816976, "mweb_blacklist_expressions": ["^/prefs/?", "^/live/?", "/message/compose", "/m/", "^/subreddits/create", "^/gold", "^/advertising", "^/promoted", "^/buttons"], "feature_noreferrer_to_noopener": true, "is_posts_mod": false, "modhash": "", "external_frame": false, "feature_cookie_consent_banner": true, "send_logs": true, "user_subscription_size": 0, "listing_over_18": false, "https_endpoint": "https://www.reddit.com", "extension": null, "embedded": false, "use_onetrust": false, "ads_loading_timeout_ms": 5000, "enabled_experiments": {}, "cache_policy": "loggedout_www", "admin_message_acct": "/r/reddit.com", "event_target": {"target_id": 1974731013, "target_type": "self", "target_sort": "random", "target_fullname": "t3_wnpc79"}, "advertiser_category": null, "events_collector_v2_url": "https://www.reddit.com/api/register.json", "debug": false, "has_subscribed": false, "expando_preference": "subreddit_default", "static_root": "//www.redditstatic.com", "server_time": 1661230995.0, "feature_no_subscription_step": null, "feature_swap_steps_two_and_three_recalibration": "treatment_1", "pref_no_profanity": true, "share_tracking_ts": 1661230995921, "cur_domain": "reddit.com", "browser_supports_d2x": false, "events_collector_url": "https://www.reddit.com/api/register.json", "embed_preview_url": "https://rebed.redditmedia.com/embed", "gild_url": "/framedGild", "cur_link": "t3_wnpc79", "user_in_timeout": false, "share_tracking_hmac": null, "live_orangereds_pref": true, "feature_blocked_user_enabled": false, "ad_serving_events_sample_rate": "1.00", "is_fake": false, "renderstyle": "html", "framed_modal_url": "/framedModal/", "feature_adblock_v2_events_enabled": false, "user_age": false, "vote_hash": "Av9+IOxwg9fIiffszfwZxFCCfc9pq174/nhyN1oLutDBLfRFm9Rmo2dQ3EN9Vj54Y4QYV49j6B/sZ6vyGxcGOgzsaYW5dF9E3656hgsDWmg2Plb8cQRgBqbIHmdmBbEC+0b0Yt6wg9y8mwQ/zERfqnWDxrSWo0FgILGg/HGinRo=", "link_websocket_url": "", "events_collector_secret": "Ua3epahc7ZiengeeVaeG6eingahke7", "pref_video_autoplay": true, "events_collector_key": "RedditFrontend3", "scraped_domains": ["gfycat.com", "imgur.com"], "allow_nonessential_cookies": false, "store_visits": false, "onetrust_client_id": "14003311-a669-490b-a682-56294eb02bf2", "cur_site": "t5_6idjlq", "new_window": false, "pref_beta": false, "eu_cookie_max_attempts": 3, "pageInfo": {"actionName": "front.GET_comments", "statsVerification": "388228f7328f4f4378f87784f3f47137498db25f", "type": "post_detail", "verification": "388228f7328f4f4378f87784f3f47137498db25f", "statsName": "front.GET_comments"}, "user_websocket_url": null, "signature_header": "X-Signature", "media_domain": "www.redditmedia.com", "whitelist_status": "no_ads", "signature_header_v2": "X-Signature-v2", "cur_listing": "retardedcornfieldcum", "email_verified": false, "status_msg": {"fetching": "fetching title...", "loading": "loading...", "submitting": "submitting..."}, "link_limit": 200, "stats_sample_rate": "5", "loid_version": 2, "eu_cookie": "eu_cookie", "is_moderator_somewhere": false, "d2x_domain": "https://new.reddit.com/"})
         </script>
         <style type="text/css">
          /* Custom css: use this block to insert special translation-dependent css in the page header */
@@ -162,16 +162,8 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/gaming/">
-         gaming
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/news/">
-         news
+        <a class="choice" href="https://old.reddit.com/r/pics/">
+         pics
         </a>
        </li>
        <li>
@@ -186,16 +178,16 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/dataisbeautiful/">
-         dataisbeautiful
+        <a class="choice" href="https://old.reddit.com/r/news/">
+         news
         </a>
        </li>
        <li>
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/explainlikeimfive/">
-         explainlikeimfive
+        <a class="choice" href="https://old.reddit.com/r/gaming/">
+         gaming
         </a>
        </li>
        <li>
@@ -210,16 +202,16 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/pics/">
-         pics
+        <a class="choice" href="https://old.reddit.com/r/space/">
+         space
         </a>
        </li>
        <li>
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/nottheonion/">
-         nottheonion
+        <a class="choice" href="https://old.reddit.com/r/explainlikeimfive/">
+         explainlikeimfive
         </a>
        </li>
        <li>
@@ -228,6 +220,14 @@
         </span>
         <a class="choice" href="https://old.reddit.com/r/mildlyinteresting/">
          mildlyinteresting
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/dataisbeautiful/">
+         dataisbeautiful
         </a>
        </li>
        <li>
@@ -266,8 +266,24 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/Music/">
-         Music
+        <a class="choice" href="https://old.reddit.com/r/science/">
+         science
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/OldSchoolCool/">
+         OldSchoolCool
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/gifs/">
+         gifs
         </a>
        </li>
        <li>
@@ -290,30 +306,6 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/LifeProTips/">
-         LifeProTips
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/gifs/">
-         gifs
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/science/">
-         science
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
         <a class="choice" href="https://old.reddit.com/r/IAmA/">
          IAmA
         </a>
@@ -322,8 +314,8 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/space/">
-         space
+        <a class="choice" href="https://old.reddit.com/r/LifeProTips/">
+         LifeProTips
         </a>
        </li>
        <li>
@@ -338,16 +330,24 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/Showerthoughts/">
-         Showerthoughts
+        <a class="choice" href="https://old.reddit.com/r/Music/">
+         Music
         </a>
        </li>
        <li>
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/OldSchoolCool/">
-         OldSchoolCool
+        <a class="choice" href="https://old.reddit.com/r/sports/">
+         sports
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/nottheonion/">
+         nottheonion
         </a>
        </li>
        <li>
@@ -362,6 +362,14 @@
         <span class="separator">
          -
         </span>
+        <a class="choice" href="https://old.reddit.com/r/Showerthoughts/">
+         Showerthoughts
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
         <a class="choice" href="https://old.reddit.com/r/Futurology/">
          Futurology
         </a>
@@ -370,8 +378,8 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/UpliftingNews/">
-         UpliftingNews
+        <a class="choice" href="https://old.reddit.com/r/GetMotivated/">
+         GetMotivated
         </a>
        </li>
        <li>
@@ -386,8 +394,8 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/food/">
-         food
+        <a class="choice" href="https://old.reddit.com/r/DIY/">
+         DIY
         </a>
        </li>
        <li>
@@ -402,8 +410,8 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/DIY/">
-         DIY
+        <a class="choice" href="https://old.reddit.com/r/food/">
+         food
         </a>
        </li>
        <li>
@@ -418,14 +426,6 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/WritingPrompts/">
-         WritingPrompts
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
         <a class="choice" href="https://old.reddit.com/r/Documentaries/">
          Documentaries
         </a>
@@ -434,8 +434,8 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/sports/">
-         sports
+        <a class="choice" href="https://old.reddit.com/r/UpliftingNews/">
+         UpliftingNews
         </a>
        </li>
        <li>
@@ -458,8 +458,8 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/GetMotivated/">
-         GetMotivated
+        <a class="choice" href="https://old.reddit.com/r/WritingPrompts/">
+         WritingPrompts
         </a>
        </li>
        <li>
@@ -760,7 +760,7 @@
      </span>
      <span class="subscribers">
       <span class="number">
-       3,577
+       3,585
       </span>
       <span class="word">
        readers
@@ -768,13 +768,13 @@
      </span>
      <p class="users-online" title="users viewing this subreddit in the past 15 minutes">
       <span class="number">
-       11
+       2
       </span>
       <span class="word">
        users here now
       </span>
      </p>
-     <form action="#" class="usertext warn-on-unload" id="form-t5_6idjlqtca" onsubmit="return post_form(this, 'editusertext')">
+     <form action="#" class="usertext warn-on-unload" id="form-t5_6idjlqb4m" onsubmit="return post_form(this, 'editusertext')">
       <input name="thing_id" type="hidden" value="t5_6idjlq"/>
       <div class="usertext-body may-blank-within md-container">
       </div>
@@ -838,14 +838,91 @@
       <div class="read-next-list">
        <div class="listing read-next-listing">
         <div class="listing-contents">
-         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wu2l0q/this_will_be_minecraft_in_2017/?ref=readnext" id="read-next-link-t3_wu2l0q">
+         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wv2y5v/with_a_friend/?ref=readnext" id="read-next-link-t3_wv2y5v">
           <div class="read-next-meta">
-           <span class="score" title="232">
-            232
+           <span class="score" title="118">
+            118
            </span>
            ·
            <span class="comments">
-            7 comments
+            1 comment
+           </span>
+          </div>
+          <div class="read-next-thumbnail">
+           <img alt="" height="70" src="//b.thumbs.redditmedia.com/cWTtk7qFXFFUDfSpUS9OXTKYj3mVlSXMtFWqTvaZEys.jpg" width="70"/>
+          </div>
+          <div class="read-next-title">
+           With A Friend 🤨🤨🤨
+          </div>
+         </a>
+         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wv6r5e/tasty_tasty_yum/?ref=readnext" id="read-next-link-t3_wv6r5e">
+          <div class="read-next-meta">
+           <span class="score" title="27">
+            27
+           </span>
+          </div>
+          <div class="read-next-thumbnail">
+           <img alt="" height="70" src="//b.thumbs.redditmedia.com/fp3JySrcIRArNaqSzIIDsqzhb5fBLP_4rghmHod50Pk.jpg" width="70"/>
+          </div>
+          <div class="read-next-title">
+           Tasty tasty yum
+          </div>
+         </a>
+         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wunij6/my_brain_when_thinking_bout_what_happened_270604/?ref=readnext" id="read-next-link-t3_wunij6">
+          <div class="read-next-meta">
+           <span class="score" title="188">
+            188
+           </span>
+           ·
+           <span class="comments">
+            3 comments
+           </span>
+          </div>
+          <div class="read-next-thumbnail">
+           <img alt="" height="57" src="//b.thumbs.redditmedia.com/X8so_C9RZYeTF22ayY1LS0yAYA3_Ls9zJLal-_t8Q6I.jpg" width="70"/>
+          </div>
+          <div class="read-next-title">
+           my brain when thinking bout what happened 27/06/04
+          </div>
+         </a>
+         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wva5bk/and_santa_aint_real_either/?ref=readnext" id="read-next-link-t3_wva5bk">
+          <div class="read-next-meta">
+           <span class="score" title="8">
+            8
+           </span>
+          </div>
+          <div class="read-next-thumbnail">
+           <img alt="" height="70" src="//b.thumbs.redditmedia.com/xeIKibaFHNQR7khRvUuPIpDzQIKFvagequWOYsRjs8Y.jpg" width="70"/>
+          </div>
+          <div class="read-next-title">
+           And santa aint real either
+          </div>
+         </a>
+         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wuf4oc/absolutely_based_mental_illness/?ref=readnext" id="read-next-link-t3_wuf4oc">
+          <div class="read-next-meta">
+           <span class="score" title="84">
+            84
+           </span>
+           ·
+           <span class="comments">
+            2 comments
+           </span>
+          </div>
+          <div class="read-next-thumbnail">
+           <img alt="" height="31" src="//b.thumbs.redditmedia.com/ixvqqAfXTzEkcQuikKpYo7DpErISXtQ3M5JSvs7jH0g.jpg" width="70"/>
+          </div>
+          <div class="read-next-title">
+           absolutely based mental illness
+          </div>
+         </a>
+         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wu2l0q/this_will_be_minecraft_in_2017/?ref=readnext" id="read-next-link-t3_wu2l0q">
+          <div class="read-next-meta">
+           <span class="score" title="266">
+            266
+           </span>
+           ·
+           <span class="comments">
+            16 comments
            </span>
           </div>
           <div class="read-next-thumbnail">
@@ -857,8 +934,8 @@
          </a>
          <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wu83az/take_that_libturds/?ref=readnext" id="read-next-link-t3_wu83az">
           <div class="read-next-meta">
-           <span class="score" title="78">
-            78
+           <span class="score" title="113">
+            113
            </span>
           </div>
           <div class="read-next-thumbnail">
@@ -868,23 +945,10 @@
            Take that libturds
           </div>
          </a>
-         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wuf4oc/absolutely_based_mental_illness/?ref=readnext" id="read-next-link-t3_wuf4oc">
-          <div class="read-next-meta">
-           <span class="score" title="27">
-            27
-           </span>
-          </div>
-          <div class="read-next-thumbnail">
-           <img alt="" height="31" src="//b.thumbs.redditmedia.com/ixvqqAfXTzEkcQuikKpYo7DpErISXtQ3M5JSvs7jH0g.jpg" width="70"/>
-          </div>
-          <div class="read-next-title">
-           absolutely based mental illness
-          </div>
-         </a>
          <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wuah1g/kinky/?ref=readnext" id="read-next-link-t3_wuah1g">
           <div class="read-next-meta">
-           <span class="score" title="16">
-            16
+           <span class="score" title="36">
+            36
            </span>
            ·
            <span class="comments">
@@ -903,8 +967,8 @@
          </a>
          <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wthz29/bateman_pilled/?ref=readnext" id="read-next-link-t3_wthz29">
           <div class="read-next-meta">
-           <span class="score" title="204">
-            204
+           <span class="score" title="206">
+            206
            </span>
            ·
            <span class="comments">
@@ -933,70 +997,6 @@
           </div>
           <div class="read-next-title">
            "This game makes me want to kill people. I want to shoot people in real life"
-          </div>
-         </a>
-         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wu53fw/did_the_beat_go_off/?ref=readnext" id="read-next-link-t3_wu53fw">
-          <div class="read-next-meta">
-           <span class="score" title="2">
-            2
-           </span>
-          </div>
-          <div class="read-next-title">
-           Did the beat go off?
-          </div>
-         </a>
-         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wst3jt/todays_fit/?ref=readnext" id="read-next-link-t3_wst3jt">
-          <div class="read-next-meta">
-           <span class="score" title="245">
-            245
-           </span>
-           ·
-           <span class="comments">
-            11 comments
-           </span>
-          </div>
-          <div class="read-next-thumbnail">
-           <img alt="" height="70" src="//b.thumbs.redditmedia.com/rphAOkKJtRu04fiRQQeEUoyjUsKDpA97BpoOhdI8HQg.jpg" width="70"/>
-          </div>
-          <div class="read-next-title">
-           todays fit
-          </div>
-         </a>
-         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wsr3i7/sigma/?ref=readnext" id="read-next-link-t3_wsr3i7">
-          <div class="read-next-meta">
-           <span class="score" title="111">
-            111
-           </span>
-           ·
-           <span class="comments">
-            3 comments
-           </span>
-          </div>
-          <div class="read-next-thumbnail">
-           <img alt="" height="70" src="//b.thumbs.redditmedia.com/oe4UapjHqceeFaJFOV11VP4duM7JS17jglIvNMQmy8Y.jpg" width="70"/>
-          </div>
-          <div class="read-next-title">
-           Sigma
-          </div>
-         </a>
-         <a class="read-next-link may-blank" href="/r/retardedcornfieldcum/comments/wsk1sf/maannnnn/?ref=readnext" id="read-next-link-t3_wsk1sf">
-          <div class="read-next-meta">
-           <span class="score" title="152">
-            152
-           </span>
-           ·
-           <span class="comments">
-            8 comments
-           </span>
-          </div>
-          <div class="read-next-thumbnail">
-           <img alt="" height="70" src="//b.thumbs.redditmedia.com/9XHo7cEJzLAFjQ2ZjOWRPUs9KloIktaBPwxlJGtkZmI.jpg" width="70"/>
-           <div class="duration-overlay">
-            0:06
-           </div>
-          </div>
-          <div class="read-next-title">
-           maannnnn
           </div>
          </a>
         </div>
@@ -1078,9 +1078,9 @@
        <p class="tagline">
         submitted
         <time class="live-timestamp" datetime="2022-08-13T21:38:24+00:00" title="Sat Aug 13 21:38:24 2022 UTC">
-         8 days ago
+         9 days ago
         </time>
-        <time class="edited-timestamp" datetime="2022-08-13T22:30:06+00:00" title="last edited 8 days ago">
+        <time class="edited-timestamp" datetime="2022-08-13T22:30:06+00:00" title="last edited 9 days ago">
          *
         </time>
         by
@@ -1109,7 +1109,7 @@
        </p>
       </div>
       <div class="expando expando-uninitialized" data-pin-condition="function() {return this.style.display != 'none';}">
-       <form action="#" class="usertext warn-on-unload" id="form-t3_wnpc79k0v" onsubmit="return post_form(this, 'editusertext')">
+       <form action="#" class="usertext warn-on-unload" id="form-t3_wnpc79f4d" onsubmit="return post_form(this, 'editusertext')">
         <input name="thing_id" type="hidden" value="t3_wnpc79"/>
         <div class="usertext-body may-blank-within md-container">
          <div class="md">
@@ -1347,7 +1347,7 @@
          15 points
         </span>
         <time class="live-timestamp" datetime="2022-08-14T00:40:25+00:00" title="Sun Aug 14 00:40:25 2022 UTC">
-         8 days ago
+         9 days ago
         </time>
         <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
         </span>
@@ -1355,7 +1355,7 @@
          (1 child)
         </a>
        </p>
-       <form action="#" class="usertext warn-on-unload" id="form-t1_ik728iaiv1" onsubmit="return post_form(this, 'editusertext')">
+       <form action="#" class="usertext warn-on-unload" id="form-t1_ik728ia40l" onsubmit="return post_form(this, 'editusertext')">
         <input name="thing_id" type="hidden" value="t1_ik728ia"/>
         <div class="usertext-body may-blank-within md-container">
          <div class="md">
@@ -1423,17 +1423,17 @@
            </a>
            <span class="userattrs">
            </span>
-           <span class="score dislikes" title="8">
+           <span class="score dislikes" title="7">
+            7 points
+           </span>
+           <span class="score unvoted" title="8">
             8 points
            </span>
-           <span class="score unvoted" title="9">
+           <span class="score likes" title="9">
             9 points
            </span>
-           <span class="score likes" title="10">
-            10 points
-           </span>
            <time class="live-timestamp" datetime="2022-08-14T02:44:17+00:00" title="Sun Aug 14 02:44:17 2022 UTC">
-            8 days ago
+            9 days ago
            </time>
            <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
            </span>
@@ -1441,7 +1441,7 @@
             (0 children)
            </a>
           </p>
-          <form action="#" class="usertext warn-on-unload" id="form-t1_ik7hh9zwr0" onsubmit="return post_form(this, 'editusertext')">
+          <form action="#" class="usertext warn-on-unload" id="form-t1_ik7hh9z2ki" onsubmit="return post_form(this, 'editusertext')">
            <input name="thing_id" type="hidden" value="t1_ik7hh9z"/>
            <div class="usertext-body may-blank-within md-container">
             <div class="md">
@@ -1536,7 +1536,7 @@
          9 points
         </span>
         <time class="live-timestamp" datetime="2022-08-13T23:29:29+00:00" title="Sat Aug 13 23:29:29 2022 UTC">
-         8 days ago
+         9 days ago
         </time>
         <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
         </span>
@@ -1544,7 +1544,7 @@
          (1 child)
         </a>
        </p>
-       <form action="#" class="usertext warn-on-unload" id="form-t1_ik6tfjfyxd" onsubmit="return post_form(this, 'editusertext')">
+       <form action="#" class="usertext warn-on-unload" id="form-t1_ik6tfjfuge" onsubmit="return post_form(this, 'editusertext')">
         <input name="thing_id" type="hidden" value="t1_ik6tfjf"/>
         <div class="usertext-body may-blank-within md-container">
          <div class="md">
@@ -1626,7 +1626,7 @@
             2 points
            </span>
            <time class="live-timestamp" datetime="2022-08-14T16:28:26+00:00" title="Sun Aug 14 16:28:26 2022 UTC">
-            7 days ago
+            8 days ago
            </time>
            <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
            </span>
@@ -1634,7 +1634,7 @@
             (0 children)
            </a>
           </p>
-          <form action="#" class="usertext warn-on-unload" id="form-t1_ik9pvp5ri8" onsubmit="return post_form(this, 'editusertext')">
+          <form action="#" class="usertext warn-on-unload" id="form-t1_ik9pvp5yp3" onsubmit="return post_form(this, 'editusertext')">
            <input name="thing_id" type="hidden" value="t1_ik9pvp5"/>
            <div class="usertext-body may-blank-within md-container">
             <div class="md">
@@ -1719,17 +1719,17 @@
         </a>
         <span class="userattrs">
         </span>
-        <span class="score dislikes" title="15">
-         15 points
-        </span>
-        <span class="score unvoted" title="16">
+        <span class="score dislikes" title="16">
          16 points
         </span>
-        <span class="score likes" title="17">
+        <span class="score unvoted" title="17">
          17 points
         </span>
+        <span class="score likes" title="18">
+         18 points
+        </span>
         <time class="live-timestamp" datetime="2022-08-13T21:49:20+00:00" title="Sat Aug 13 21:49:20 2022 UTC">
-         8 days ago
+         9 days ago
         </time>
         <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
          <a class="awarding-link" data-award-id="award_f44611f1-b89e-46dc-97fe-892280b13b82" data-count="1" href="/r/retardedcornfieldcum/gilded">
@@ -1742,7 +1742,7 @@
          (2 children)
         </a>
        </p>
-       <form action="#" class="usertext warn-on-unload" id="form-t1_ik6gn6ku1s" onsubmit="return post_form(this, 'editusertext')">
+       <form action="#" class="usertext warn-on-unload" id="form-t1_ik6gn6kf86" onsubmit="return post_form(this, 'editusertext')">
         <input name="thing_id" type="hidden" value="t1_ik6gn6k"/>
         <div class="usertext-body may-blank-within md-container">
          <div class="md">
@@ -1820,7 +1820,7 @@
             5 points
            </span>
            <time class="live-timestamp" datetime="2022-08-13T23:51:40+00:00" title="Sat Aug 13 23:51:40 2022 UTC">
-            8 days ago
+            9 days ago
            </time>
            <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
            </span>
@@ -1828,7 +1828,7 @@
             (1 child)
            </a>
           </p>
-          <form action="#" class="usertext warn-on-unload" id="form-t1_ik6w8g70by" onsubmit="return post_form(this, 'editusertext')">
+          <form action="#" class="usertext warn-on-unload" id="form-t1_ik6w8g75gw" onsubmit="return post_form(this, 'editusertext')">
            <input name="thing_id" type="hidden" value="t1_ik6w8g7"/>
            <div class="usertext-body may-blank-within md-container">
             <div class="md">
@@ -1921,7 +1921,7 @@
                3 points
               </span>
               <time class="live-timestamp" datetime="2022-08-14T01:15:27+00:00" title="Sun Aug 14 01:15:27 2022 UTC">
-               8 days ago
+               9 days ago
               </time>
               <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
               </span>
@@ -1929,7 +1929,7 @@
                (0 children)
               </a>
              </p>
-             <form action="#" class="usertext warn-on-unload" id="form-t1_ik76j1y092" onsubmit="return post_form(this, 'editusertext')">
+             <form action="#" class="usertext warn-on-unload" id="form-t1_ik76j1yduo" onsubmit="return post_form(this, 'editusertext')">
               <input name="thing_id" type="hidden" value="t1_ik76j1y"/>
               <div class="usertext-body may-blank-within md-container">
                <div class="md">
@@ -2021,17 +2021,17 @@
         </a>
         <span class="userattrs">
         </span>
-        <span class="score dislikes" title="6">
-         6 points
-        </span>
-        <span class="score unvoted" title="7">
+        <span class="score dislikes" title="7">
          7 points
         </span>
-        <span class="score likes" title="8">
+        <span class="score unvoted" title="8">
          8 points
         </span>
+        <span class="score likes" title="9">
+         9 points
+        </span>
         <time class="live-timestamp" datetime="2022-08-13T22:37:08+00:00" title="Sat Aug 13 22:37:08 2022 UTC">
-         8 days ago
+         9 days ago
         </time>
         <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
         </span>
@@ -2039,7 +2039,7 @@
          (6 children)
         </a>
        </p>
-       <form action="#" class="usertext warn-on-unload" id="form-t1_ik6mu314yd" onsubmit="return post_form(this, 'editusertext')">
+       <form action="#" class="usertext warn-on-unload" id="form-t1_ik6mu312my" onsubmit="return post_form(this, 'editusertext')">
         <input name="thing_id" type="hidden" value="t1_ik6mu31"/>
         <div class="usertext-body may-blank-within md-container">
          <div class="md">
@@ -2120,17 +2120,17 @@
             </a>
             ]
            </span>
-           <span class="score dislikes" title="6">
+           <span class="score dislikes" title="5">
+            5 points
+           </span>
+           <span class="score unvoted" title="6">
             6 points
            </span>
-           <span class="score unvoted" title="7">
+           <span class="score likes" title="7">
             7 points
            </span>
-           <span class="score likes" title="8">
-            8 points
-           </span>
            <time class="live-timestamp" datetime="2022-08-13T22:40:01+00:00" title="Sat Aug 13 22:40:01 2022 UTC">
-            8 days ago
+            9 days ago
            </time>
            <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
            </span>
@@ -2138,7 +2138,7 @@
             (4 children)
            </a>
           </p>
-          <form action="#" class="usertext warn-on-unload" id="form-t1_ik6n782m0x" onsubmit="return post_form(this, 'editusertext')">
+          <form action="#" class="usertext warn-on-unload" id="form-t1_ik6n782rqv" onsubmit="return post_form(this, 'editusertext')">
            <input name="thing_id" type="hidden" value="t1_ik6n782"/>
            <div class="usertext-body may-blank-within md-container">
             <div class="md">
@@ -2211,17 +2211,17 @@
               </a>
               <span class="userattrs">
               </span>
-              <span class="score dislikes" title="5">
+              <span class="score dislikes" title="4">
+               4 points
+              </span>
+              <span class="score unvoted" title="5">
                5 points
               </span>
-              <span class="score unvoted" title="6">
+              <span class="score likes" title="6">
                6 points
               </span>
-              <span class="score likes" title="7">
-               7 points
-              </span>
               <time class="live-timestamp" datetime="2022-08-13T22:45:30+00:00" title="Sat Aug 13 22:45:30 2022 UTC">
-               8 days ago
+               9 days ago
               </time>
               <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
               </span>
@@ -2229,7 +2229,7 @@
                (1 child)
               </a>
              </p>
-             <form action="#" class="usertext warn-on-unload" id="form-t1_ik6nvvc9hf" onsubmit="return post_form(this, 'editusertext')">
+             <form action="#" class="usertext warn-on-unload" id="form-t1_ik6nvvc0au" onsubmit="return post_form(this, 'editusertext')">
               <input name="thing_id" type="hidden" value="t1_ik6nvvc"/>
               <div class="usertext-body may-blank-within md-container">
                <div class="md">
@@ -2312,17 +2312,17 @@
                   </a>
                   ]
                  </span>
-                 <span class="score dislikes" title="3">
+                 <span class="score dislikes" title="2">
+                  2 points
+                 </span>
+                 <span class="score unvoted" title="3">
                   3 points
                  </span>
-                 <span class="score unvoted" title="4">
+                 <span class="score likes" title="4">
                   4 points
                  </span>
-                 <span class="score likes" title="5">
-                  5 points
-                 </span>
                  <time class="live-timestamp" datetime="2022-08-13T22:46:36+00:00" title="Sat Aug 13 22:46:36 2022 UTC">
-                  8 days ago
+                  9 days ago
                  </time>
                  <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
                  </span>
@@ -2330,7 +2330,7 @@
                   (0 children)
                  </a>
                 </p>
-                <form action="#" class="usertext warn-on-unload" id="form-t1_ik6o0ukmao" onsubmit="return post_form(this, 'editusertext')">
+                <form action="#" class="usertext warn-on-unload" id="form-t1_ik6o0ukh1f" onsubmit="return post_form(this, 'editusertext')">
                  <input name="thing_id" type="hidden" value="t1_ik6o0uk"/>
                  <div class="usertext-body may-blank-within md-container">
                   <div class="md">
@@ -2428,7 +2428,7 @@
                3 points
               </span>
               <time class="live-timestamp" datetime="2022-08-14T07:38:52+00:00" title="Sun Aug 14 07:38:52 2022 UTC">
-               7 days ago
+               8 days ago
               </time>
               <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
               </span>
@@ -2436,7 +2436,7 @@
                (0 children)
               </a>
              </p>
-             <form action="#" class="usertext warn-on-unload" id="form-t1_ik88r5f7qy" onsubmit="return post_form(this, 'editusertext')">
+             <form action="#" class="usertext warn-on-unload" id="form-t1_ik88r5fchv" onsubmit="return post_form(this, 'editusertext')">
               <input name="thing_id" type="hidden" value="t1_ik88r5f"/>
               <div class="usertext-body may-blank-within md-container">
                <div class="md">
@@ -2541,7 +2541,7 @@
             4 points
            </span>
            <time class="live-timestamp" datetime="2022-08-13T22:57:13+00:00" title="Sat Aug 13 22:57:13 2022 UTC">
-            8 days ago
+            9 days ago
            </time>
            <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
            </span>
@@ -2549,7 +2549,7 @@
             (0 children)
            </a>
           </p>
-          <form action="#" class="usertext warn-on-unload" id="form-t1_ik6pd79gf6" onsubmit="return post_form(this, 'editusertext')">
+          <form action="#" class="usertext warn-on-unload" id="form-t1_ik6pd79iq1" onsubmit="return post_form(this, 'editusertext')">
            <input name="thing_id" type="hidden" value="t1_ik6pd79"/>
            <div class="usertext-body may-blank-within md-container">
             <div class="md">
@@ -2658,7 +2658,7 @@
          4 points
         </span>
         <time class="live-timestamp" datetime="2022-08-14T01:17:03+00:00" title="Sun Aug 14 01:17:03 2022 UTC">
-         8 days ago
+         9 days ago
         </time>
         <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
         </span>
@@ -2666,7 +2666,7 @@
          (0 children)
         </a>
        </p>
-       <form action="#" class="usertext warn-on-unload" id="form-t1_ik76q13agd" onsubmit="return post_form(this, 'editusertext')">
+       <form action="#" class="usertext warn-on-unload" id="form-t1_ik76q13xn9" onsubmit="return post_form(this, 'editusertext')">
         <input name="thing_id" type="hidden" value="t1_ik76q13"/>
         <div class="usertext-body may-blank-within md-container">
          <div class="md">
@@ -2753,7 +2753,7 @@
          4 points
         </span>
         <time class="live-timestamp" datetime="2022-08-14T04:35:33+00:00" title="Sun Aug 14 04:35:33 2022 UTC">
-         8 days ago
+         9 days ago
         </time>
         <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
         </span>
@@ -2761,7 +2761,7 @@
          (0 children)
         </a>
        </p>
-       <form action="#" class="usertext warn-on-unload" id="form-t1_ik7tam8yeu" onsubmit="return post_form(this, 'editusertext')">
+       <form action="#" class="usertext warn-on-unload" id="form-t1_ik7tam8b2k" onsubmit="return post_form(this, 'editusertext')">
         <input name="thing_id" type="hidden" value="t1_ik7tam8"/>
         <div class="usertext-body may-blank-within md-container">
          <div class="md">
@@ -2848,7 +2848,7 @@
          4 points
         </span>
         <time class="live-timestamp" datetime="2022-08-14T07:41:44+00:00" title="Sun Aug 14 07:41:44 2022 UTC">
-         7 days ago
+         8 days ago
         </time>
         <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
         </span>
@@ -2856,7 +2856,7 @@
          (0 children)
         </a>
        </p>
-       <form action="#" class="usertext warn-on-unload" id="form-t1_ik88z2noej" onsubmit="return post_form(this, 'editusertext')">
+       <form action="#" class="usertext warn-on-unload" id="form-t1_ik88z2n6w9" onsubmit="return post_form(this, 'editusertext')">
         <input name="thing_id" type="hidden" value="t1_ik88z2n"/>
         <div class="usertext-body may-blank-within md-container">
          <div class="md">
@@ -2942,7 +2942,7 @@
          3 points
         </span>
         <time class="live-timestamp" datetime="2022-08-13T23:16:44+00:00" title="Sat Aug 13 23:16:44 2022 UTC">
-         8 days ago
+         9 days ago
         </time>
         <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
         </span>
@@ -2950,7 +2950,7 @@
          (0 children)
         </a>
        </p>
-       <form action="#" class="usertext warn-on-unload" id="form-t1_ik6rtnw7rc" onsubmit="return post_form(this, 'editusertext')">
+       <form action="#" class="usertext warn-on-unload" id="form-t1_ik6rtnw7cq" onsubmit="return post_form(this, 'editusertext')">
         <input name="thing_id" type="hidden" value="t1_ik6rtnw"/>
         <div class="usertext-body may-blank-within md-container">
          <div class="md">
@@ -3038,9 +3038,9 @@
          4 points
         </span>
         <time class="live-timestamp" datetime="2022-08-14T04:04:20+00:00" title="Sun Aug 14 04:04:20 2022 UTC">
-         8 days ago
+         9 days ago
         </time>
-        <time class="edited-timestamp" datetime="2022-08-14T04:10:26+00:00" title="last edited 8 days ago">
+        <time class="edited-timestamp" datetime="2022-08-14T04:10:26+00:00" title="last edited 9 days ago">
          *
         </time>
         <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
@@ -3049,7 +3049,7 @@
          (0 children)
         </a>
        </p>
-       <form action="#" class="usertext warn-on-unload" id="form-t1_ik7q7hsaes" onsubmit="return post_form(this, 'editusertext')">
+       <form action="#" class="usertext warn-on-unload" id="form-t1_ik7q7hskv5" onsubmit="return post_form(this, 'editusertext')">
         <input name="thing_id" type="hidden" value="t1_ik7q7hs"/>
         <div class="usertext-body may-blank-within md-container">
          <div class="md">
@@ -3132,7 +3132,7 @@
          3 points
         </span>
         <time class="live-timestamp" datetime="2022-08-14T15:07:31+00:00" title="Sun Aug 14 15:07:31 2022 UTC">
-         7 days ago
+         8 days ago
         </time>
         <span class="awardings-bar" data-subredditpath="/r/retardedcornfieldcum/">
         </span>
@@ -3140,7 +3140,7 @@
          (0 children)
         </a>
        </p>
-       <form action="#" class="usertext warn-on-unload" id="form-t1_ik9ebhji9b" onsubmit="return post_form(this, 'editusertext')">
+       <form action="#" class="usertext warn-on-unload" id="form-t1_ik9ebhjep7" onsubmit="return post_form(this, 'editusertext')">
         <input name="thing_id" type="hidden" value="t1_ik9ebhj"/>
         <div class="usertext-body may-blank-within md-container">
          <div class="md">
@@ -3197,14 +3197,14 @@
      <div class="interstitial"><img class="interstitial-image" src="//www.redditstatic.com/interstitial-image-archived.png" alt="archived" height="150" width="150"><div class="interstitial-message md-container"><div class="md"><h3>This is an archived post. You won't be able to vote or comment.</h3><p>Posts&#32;are&#32;automatically&#32;archived&#32;after&#32;6&#32;months.</p></div></div><div class="buttons"><a href="/" class="c-btn c-btn-primary">Got It</a></div></div>
     </script>
     <script id="spezmodal-popup" type="text/template">
-     <div class="md-container"><div class="md"><h1>Happy National Voter Registration Day from Reddit!</h1><p>You upvote on Reddit, but are you registered to vote IRL? Learn about the voter registration process, how to check your registration, and more&#32;<a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAAARwDY_BNbiGt1QC9exGPAAkQ3_igzQryn6OICVHTX6f-OSQe&amp;app_name=reddit.com" data-outbound-expiration="1661148161000" >here.</a>&#32; Register now, so you’ll be VoteReady come election day this November.</p><div class="spezmodal-cta"><a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAAARwDY_BNbiGt1QC9exGPAAkQ3_igzQryn6OICVHTX6f-OSQe&amp;app_name=reddit.com" data-outbound-expiration="1661148161000" >REGISTER TO VOTE</a></div></div></div>
+     <div class="md-container"><div class="md"><h1>Happy National Voter Registration Day from Reddit!</h1><p>You upvote on Reddit, but are you registered to vote IRL? Learn about the voter registration process, how to check your registration, and more&#32;<a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAAo20EY14EVlMbCBWjldZVxM097jHCodnBRW2ep_EuwcJ6ZrLX&amp;app_name=reddit.com" data-outbound-expiration="1661234595000" >here.</a>&#32; Register now, so you’ll be VoteReady come election day this November.</p><div class="spezmodal-cta"><a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAAo20EY14EVlMbCBWjldZVxM097jHCodnBRW2ep_EuwcJ6ZrLX&amp;app_name=reddit.com" data-outbound-expiration="1661234595000" >REGISTER TO VOTE</a></div></div></div>
     </script>
    </div>
    <script id="archived-popup" type="text/template">
     <div class="interstitial"><img class="interstitial-image" src="//www.redditstatic.com/interstitial-image-archived.png" alt="archived" height="150" width="150"><div class="interstitial-message md-container"><div class="md"><h3>This is an archived post. You won't be able to vote or comment.</h3><p>Posts&#32;are&#32;automatically&#32;archived&#32;after&#32;6&#32;months.</p></div></div><div class="buttons"><a href="/" class="c-btn c-btn-primary">Got It</a></div></div>
    </script>
    <script id="spezmodal-popup" type="text/template">
-    <div class="md-container"><div class="md"><h1>Happy National Voter Registration Day from Reddit!</h1><p>You upvote on Reddit, but are you registered to vote IRL? Learn about the voter registration process, how to check your registration, and more&#32;<a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAAARwDY_BNbiGt1QC9exGPAAkQ3_igzQryn6OICVHTX6f-OSQe&amp;app_name=reddit.com" data-outbound-expiration="1661148161000" >here.</a>&#32; Register now, so you’ll be VoteReady come election day this November.</p><div class="spezmodal-cta"><a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAAARwDY_BNbiGt1QC9exGPAAkQ3_igzQryn6OICVHTX6f-OSQe&amp;app_name=reddit.com" data-outbound-expiration="1661148161000" >REGISTER TO VOTE</a></div></div></div>
+    <div class="md-container"><div class="md"><h1>Happy National Voter Registration Day from Reddit!</h1><p>You upvote on Reddit, but are you registered to vote IRL? Learn about the voter registration process, how to check your registration, and more&#32;<a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAAo20EY14EVlMbCBWjldZVxM097jHCodnBRW2ep_EuwcJ6ZrLX&amp;app_name=reddit.com" data-outbound-expiration="1661234595000" >here.</a>&#32; Register now, so you’ll be VoteReady come election day this November.</p><div class="spezmodal-cta"><a href="https://www.usa.gov/register-to-vote" target="_blank" class="outbound" data-href-url="https://www.usa.gov/register-to-vote" data-outbound-url="https://out.reddit.com/t3_d0jy34?url=https%3A%2F%2Fwww.usa.gov%2Fregister-to-vote&amp;token=AQAAo20EY14EVlMbCBWjldZVxM097jHCodnBRW2ep_EuwcJ6ZrLX&amp;app_name=reddit.com" data-outbound-expiration="1661234595000" >REGISTER TO VOTE</a></div></div></div>
    </script>
   </div>
   <div class="footer-parent">
@@ -3358,7 +3358,7 @@
     π
    </span>
    <span class="content">
-    Rendered by PID 20779 on  reddit-service-r2-slowlane-6f5b8ccc79-6mmpb  at 2022-08-22 05:02:40.962327+00:00 running 6c805f8 country code: US.
+    Rendered by PID 53321 on  reddit-service-r2-slowlane-6f5b8ccc79-krvks  at 2022-08-23 05:03:15.747532+00:00 running 6c805f8 country code: US.
    </span>
   </p>
   <script src="//www.redditstatic.com/reddit.en.V_QdhTsokW8.js" type="text/javascript">
