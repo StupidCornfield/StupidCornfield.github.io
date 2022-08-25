@@ -49,7 +49,7 @@
       <script src="//www.redditstatic.com/videoplayer.pRlfb8S7mb4.js" type="text/javascript">
       </script>
       <script id="config" type="text/javascript">
-       r.setup({"ajax_domain": "old.reddit.com", "post_site": "retardedcornfieldcum", "gold": false, "scraped_image_extensions": ["gif", "jpeg", "jpg", "png", "tiff"], "poisoning_report_mac": null, "requires_eu_cookie_policy": false, "nsfw_media_acknowledged": false, "stats_domain": "", "feature_net_neutrality": false, "cur_screen_name": "", "country_code": "", "facebook_app_id": "322647334569188", "loid": "0000000000runpvsd8", "is_sponsor": false, "has_gold_subscription": false, "feature_author_tooltip_users": true, "user_id": false, "pref_email_messages": false, "poisoning_canary": null, "logged": false, "over_18": false, "show_spez_modal": true, "show_archived_signup_cta": true, "loid_created": 1661317223436, "mweb_blacklist_expressions": ["^/prefs/?", "^/live/?", "/message/compose", "/m/", "^/subreddits/create", "^/gold", "^/advertising", "^/promoted", "^/buttons"], "feature_noreferrer_to_noopener": true, "modhash": "", "external_frame": false, "feature_cookie_consent_banner": true, "send_logs": true, "user_subscription_size": 0, "listing_over_18": false, "https_endpoint": "https://www.reddit.com", "extension": null, "embedded": false, "use_onetrust": false, "ads_loading_timeout_ms": 5000, "enabled_experiments": {}, "cache_policy": "loggedout_www", "admin_message_acct": "/r/reddit.com", "advertiser_category": null, "events_collector_v2_url": "https://www.reddit.com/api/friend", "debug": false, "has_subscribed": false, "expando_preference": "subreddit_default", "static_root": "//www.redditstatic.com", "server_time": 1661317227.0, "feature_no_subscription_step": null, "feature_swap_steps_two_and_three_recalibration": "treatment_1", "pref_no_profanity": true, "share_tracking_ts": 1661317227534, "cur_domain": "reddit.com", "browser_supports_d2x": false, "events_collector_url": "https://www.reddit.com/api/friend", "embed_preview_url": "https://rebed.redditmedia.com/embed", "gild_url": "/framedGild", "user_in_timeout": false, "share_tracking_hmac": null, "live_orangereds_pref": true, "feature_blocked_user_enabled": false, "ad_serving_events_sample_rate": "1.00", "is_fake": false, "renderstyle": "html", "framed_modal_url": "/framedModal/", "feature_adblock_v2_events_enabled": false, "user_age": false, "vote_hash": "fFyoVcQeaU38xqaMSPHr0/bMK2zExkEoz4Ola8ZafEQY/rHmjbaw1jSPgxZzOn4ZqpkrV2H5O6Qvge2tNmWt4+0/FlpUXQ5t/7c937L19Mlbj+QW00UYKjVt6RKKXLklXU1v/tBolJW2H9GGkVybZ4d8sABvGn5/NscoIWDr5G8=", "events_collector_secret": "Ua3epahc7ZiengeeVaeG6eingahke7", "pref_video_autoplay": true, "events_collector_key": "RedditFrontend3", "scraped_domains": ["gfycat.com", "imgur.com"], "allow_nonessential_cookies": false, "store_visits": false, "onetrust_client_id": "14003311-a669-490b-a682-56294eb02bf2", "cur_site": "t5_6idjlq", "new_window": false, "pref_beta": false, "eu_cookie_max_attempts": 3, "pageInfo": {"actionName": "forms.GET_login", "statsVerification": "a22e60e4ca769dbbf11bfa28c9e02bfa2435eeb4", "type": "login", "verification": "a22e60e4ca769dbbf11bfa28c9e02bfa2435eeb4", "statsName": "forms.GET_login"}, "user_websocket_url": null, "signature_header": "X-Signature", "media_domain": "www.redditmedia.com", "whitelist_status": "no_ads", "signature_header_v2": "X-Signature-v2", "cur_listing": "retardedcornfieldcum", "email_verified": false, "status_msg": {"fetching": "fetching title...", "loading": "loading...", "submitting": "submitting..."}, "stats_sample_rate": "5", "loid_version": 2, "eu_cookie": "eu_cookie", "is_moderator_somewhere": false, "d2x_domain": "https://new.reddit.com/"})
+       r.setup({"ajax_domain": "old.reddit.com", "post_site": "retardedcornfieldcum", "gold": false, "scraped_image_extensions": ["gif", "jpeg", "jpg", "png", "tiff"], "poisoning_report_mac": null, "requires_eu_cookie_policy": false, "nsfw_media_acknowledged": false, "stats_domain": "", "feature_net_neutrality": false, "cur_screen_name": "", "country_code": "", "facebook_app_id": "322647334569188", "loid": "0000000000rvtqlojq", "is_sponsor": false, "has_gold_subscription": false, "feature_author_tooltip_users": true, "user_id": false, "pref_email_messages": false, "poisoning_canary": null, "logged": false, "over_18": false, "show_spez_modal": true, "show_archived_signup_cta": true, "loid_created": 1661403629777, "mweb_blacklist_expressions": ["^/prefs/?", "^/live/?", "/message/compose", "/m/", "^/subreddits/create", "^/gold", "^/advertising", "^/promoted", "^/buttons"], "feature_noreferrer_to_noopener": true, "modhash": "", "external_frame": false, "feature_cookie_consent_banner": true, "send_logs": true, "user_subscription_size": 0, "listing_over_18": false, "https_endpoint": "https://www.reddit.com", "extension": null, "embedded": false, "use_onetrust": false, "ads_loading_timeout_ms": 5000, "enabled_experiments": {}, "cache_policy": "loggedout_www", "admin_message_acct": "/r/reddit.com", "advertiser_category": null, "events_collector_v2_url": "https://www.reddit.com/api/submit.json", "debug": false, "has_subscribed": false, "expando_preference": "subreddit_default", "static_root": "//www.redditstatic.com", "server_time": 1661403632.0, "feature_no_subscription_step": "control_2", "feature_swap_steps_two_and_three_recalibration": "treatment_1", "pref_no_profanity": true, "share_tracking_ts": 1661403632462, "cur_domain": "reddit.com", "browser_supports_d2x": false, "events_collector_url": "https://www.reddit.com/api/submit.json", "embed_preview_url": "https://rebed.redditmedia.com/embed", "gild_url": "/framedGild", "user_in_timeout": false, "share_tracking_hmac": null, "live_orangereds_pref": true, "feature_blocked_user_enabled": false, "ad_serving_events_sample_rate": "1.00", "is_fake": false, "renderstyle": "html", "framed_modal_url": "/framedModal/", "feature_adblock_v2_events_enabled": false, "user_age": false, "vote_hash": "OT7/W+AntP6ZSMaOW2yhW0at9UaZGmzksMVttRgRkO9bi6Ur7T9HogDek64YxhfjTGH0a+YtHHXZNH/bJB86mfDuKZvGOKg6Vqbt5sGb7DabtbR/UqXyfTbEUl/mgpHDRLedCtmlGol1bxai8FW9OWNHuXJFD4tfBp85/4FMG3s=", "events_collector_secret": "Ua3epahc7ZiengeeVaeG6eingahke7", "pref_video_autoplay": true, "events_collector_key": "RedditFrontend3", "scraped_domains": ["gfycat.com", "imgur.com"], "allow_nonessential_cookies": false, "store_visits": false, "onetrust_client_id": "14003311-a669-490b-a682-56294eb02bf2", "cur_site": "t5_6idjlq", "new_window": false, "pref_beta": false, "eu_cookie_max_attempts": 3, "pageInfo": {"actionName": "forms.GET_login", "statsVerification": "a22e60e4ca769dbbf11bfa28c9e02bfa2435eeb4", "type": "login", "verification": "a22e60e4ca769dbbf11bfa28c9e02bfa2435eeb4", "statsName": "forms.GET_login"}, "user_websocket_url": null, "signature_header": "X-Signature", "media_domain": "www.redditmedia.com", "whitelist_status": "no_ads", "signature_header_v2": "X-Signature-v2", "cur_listing": "retardedcornfieldcum", "email_verified": false, "status_msg": {"fetching": "fetching title...", "loading": "loading...", "submitting": "submitting..."}, "stats_sample_rate": "5", "loid_version": 2, "eu_cookie": "eu_cookie", "is_moderator_somewhere": false, "d2x_domain": "https://new.reddit.com/"})
       </script>
       <style type="text/css">
        /* Custom css: use this block to insert special translation-dependent css in the page header */
@@ -150,16 +150,8 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/movies/">
-         movies
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/gaming/">
-         gaming
+        <a class="choice" href="https://old.reddit.com/r/mildlyinteresting/">
+         mildlyinteresting
         </a>
        </li>
        <li>
@@ -174,30 +166,6 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/explainlikeimfive/">
-         explainlikeimfive
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/aww/">
-         aww
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/TwoXChromosomes/">
-         TwoXChromosomes
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
         <a class="choice" href="https://old.reddit.com/r/tifu/">
          tifu
         </a>
@@ -206,8 +174,8 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/videos/">
-         videos
+        <a class="choice" href="https://old.reddit.com/r/gaming/">
+         gaming
         </a>
        </li>
        <li>
@@ -222,32 +190,48 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/mildlyinteresting/">
-         mildlyinteresting
+        <a class="choice" href="https://old.reddit.com/r/explainlikeimfive/">
+         explainlikeimfive
         </a>
        </li>
        <li>
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/Jokes/">
-         Jokes
+        <a class="choice" href="https://old.reddit.com/r/movies/">
+         movies
         </a>
        </li>
        <li>
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/dataisbeautiful/">
-         dataisbeautiful
+        <a class="choice" href="https://old.reddit.com/r/TwoXChromosomes/">
+         TwoXChromosomes
         </a>
        </li>
        <li>
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/OldSchoolCool/">
-         OldSchoolCool
+        <a class="choice" href="https://old.reddit.com/r/books/">
+         books
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/videos/">
+         videos
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/aww/">
+         aww
         </a>
        </li>
        <li>
@@ -270,32 +254,16 @@
         <span class="separator">
          -
         </span>
+        <a class="choice" href="https://old.reddit.com/r/Jokes/">
+         Jokes
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
         <a class="choice" href="https://old.reddit.com/r/askscience/">
          askscience
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/nottheonion/">
-         nottheonion
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/books/">
-         books
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/Music/">
-         Music
         </a>
        </li>
        <li>
@@ -310,24 +278,40 @@
         <span class="separator">
          -
         </span>
+        <a class="choice" href="https://old.reddit.com/r/nottheonion/">
+         nottheonion
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/OldSchoolCool/">
+         OldSchoolCool
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/Music/">
+         Music
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/dataisbeautiful/">
+         dataisbeautiful
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
         <a class="choice" href="https://old.reddit.com/r/Futurology/">
          Futurology
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/Art/">
-         Art
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/gifs/">
-         gifs
         </a>
        </li>
        <li>
@@ -350,8 +334,16 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/photoshopbattles/">
-         photoshopbattles
+        <a class="choice" href="https://old.reddit.com/r/gifs/">
+         gifs
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/Art/">
+         Art
         </a>
        </li>
        <li>
@@ -366,8 +358,32 @@
         <span class="separator">
          -
         </span>
+        <a class="choice" href="https://old.reddit.com/r/InternetIsBeautiful/">
+         InternetIsBeautiful
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
         <a class="choice" href="https://old.reddit.com/r/nosleep/">
          nosleep
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/gadgets/">
+         gadgets
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/food/">
+         food
         </a>
        </li>
        <li>
@@ -390,16 +406,8 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/food/">
-         food
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/InternetIsBeautiful/">
-         InternetIsBeautiful
+        <a class="choice" href="https://old.reddit.com/r/UpliftingNews/">
+         UpliftingNews
         </a>
        </li>
        <li>
@@ -414,32 +422,8 @@
         <span class="separator">
          -
         </span>
-        <a class="choice" href="https://old.reddit.com/r/UpliftingNews/">
-         UpliftingNews
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/gadgets/">
-         gadgets
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/WritingPrompts/">
-         WritingPrompts
-        </a>
-       </li>
-       <li>
-        <span class="separator">
-         -
-        </span>
-        <a class="choice" href="https://old.reddit.com/r/EarthPorn/">
-         EarthPorn
+        <a class="choice" href="https://old.reddit.com/r/photoshopbattles/">
+         photoshopbattles
         </a>
        </li>
        <li>
@@ -454,8 +438,24 @@
         <span class="separator">
          -
         </span>
+        <a class="choice" href="https://old.reddit.com/r/WritingPrompts/">
+         WritingPrompts
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
         <a class="choice" href="https://old.reddit.com/r/philosophy/">
          philosophy
+        </a>
+       </li>
+       <li>
+        <span class="separator">
+         -
+        </span>
+        <a class="choice" href="https://old.reddit.com/r/EarthPorn/">
+         EarthPorn
         </a>
        </li>
        <li>
@@ -837,7 +837,7 @@
     π
    </span>
    <span class="content">
-    Rendered by PID 73406 on  reddit-service-r2-slowlane-6f5b8ccc79-n4qws  at 2022-08-24 05:00:27.525926+00:00 running 6c805f8 country code: US.
+    Rendered by PID 56 on  reddit-service-r2-slowlane-6f5b8ccc79-9jjz2  at 2022-08-25 05:00:32.454155+00:00 running 6c805f8 country code: US.
    </span>
   </p>
   <script src="//www.redditstatic.com/reddit.en.V_QdhTsokW8.js" type="text/javascript">
